@@ -5,6 +5,9 @@
 #include "include/ACCOUNT.h"
 #include "include/CASHBIN .h"
 
+//2022 06.24
+//This program works as ATM
+
 int main() {
 
     //Create an object each for USER, ACCOUNT, CASHBIN, and CONSOLE
